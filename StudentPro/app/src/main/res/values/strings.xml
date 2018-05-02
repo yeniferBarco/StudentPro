@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">StudentPro</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="quienes_somos">Comunicamos a estudiantes universitarios con padres de familia para dictar asesorias 
+    a aquellos jovenes que se encuentran cursando primaria.</string>
+
+    <string name="que_hacemos">Comunicamos a estudiantes universitarios con padres de familia para dictar asesorias 
+    a aquellos jovenes que se encuentran cursando primaria.</string>
+
+    <string name="para_servimos">Comunicamos a estudiantes universitarios con padres de familia para dictar asesorias 
+    a aquellos jovenes que se encuentran cursando primaria.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
